@@ -1,6 +1,6 @@
 # 📄 DocSummarizer
 
-DocSummarizer is a **full-stack AI-powered document summarization web application** that allows users to upload documents and generate concise summaries using **Hugging Face NLP models**. The project is built with a modern **MERN + Spring Boot backend** and styled using **Tailwind CSS**, with data persisted in a **SQL database**.
+DocSummarizer is a **full-stack AI-powered document summarization web application** that allows users to upload documents and generate concise summaries using **Hugging Face NLP models**. The project is built with a modern **REACT + Spring Boot backend** and styled using **Tailwind CSS**, with data persisted in a **SQL database**.
 
 ---
 
