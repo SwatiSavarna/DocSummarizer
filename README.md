@@ -31,10 +31,6 @@ DocSummarizer is a **full-stack AI-powered document summarization web applicatio
 - **MySQL (SQL Database)**
 - **JPA / Hibernate**
 
-### DevOps / Deployment
-- **Git & GitHub**
-- **Railway (Backend & Database)**
-- **Render (Frontend)**
 
 ---
 
